@@ -1,0 +1,10 @@
+pandas
+numpy
+yfinance
+xgboost
+scikit-learn
+requests
+joblib
+rich
+vaderSentiment
+
